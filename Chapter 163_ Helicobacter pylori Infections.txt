@@ -1,0 +1,473 @@
+
+ 
+
+Harrison's Principles of Internal Medicine, 21e? Chapter 
+163: Helicobacter pylori Infections John C. 
+Atherton; Martin J. Blaser
+
+INTRODUCTION
+Helicobacter pylori colonizes the stomach in ~50% of the world¨s human population, essentially for life unless eradicated by antibiotic treatment. 
+Colonization with this organism is the main risk factor for peptic ulceration (Chap. 324) as well as for gastric adenocarcinoma and gastric mucosa？ 
+associated lymphoid tissue (MALT) lymphoma (Chap. 80). Treatment for H. pylori has revolutionized the management of peptic ulcer disease, providing 
+a permanent cure in most cases. Such treatment also represents first？line therapy for patients with low？grade gastric MALT lymphoma. Treatment of H. 
+pylori is of no benefit in the treatment of gastric adenocarcinoma, but prevention of H. pylori colonization or eradicative treatment could potentially 
+prevent gastric malignancy and peptic ulceration. In contrast, increasing evidence indicates that lifelong H. pylori colonization may offer some protection 
+against complications of gastroesophageal reflux disease (GERD), including esophageal adenocarcinoma. Recent research has focused on whether H. 
+pylori colonization is also a risk factor for some extragastric diseases and whether it is protective against some recently emergent medical problems, such 
+as childhood？onset asthma and other allergic and metabolic conditions.
+
+ETIOLOGIC AGENT
+Helicobacter pylori
+H. pylori is a gram？negative bacillus that has naturally colonized humans for at least 100,000 years, and probably throughout human evolution. It lives in 
+gastric mucus, with a proportion of the bacteria adherent to the mucosa and possibly a very small number of the organisms entering cells or penetrating 
+the mucosa; the organism¨s distribution is mucosal rather than systemic. Its spiral shape and flagella render H. pylori motile in the mucus environment. 
+The organism has several acid？resistance mechanisms, most notably a highly expressed urease that catalyzes urea hydrolysis to produce buffering 
+ammonia. H. pylori is microaerophilic (i.e., grows in low levels of oxygen), is slow？growing, and requires complex growth media in vitro.
+
+Other Helicobacter Species
+A small proportion of gastric Helicobacter infections are due to species other than H. pylori, possibly acquired as zoonoses. These non？pylori gastric 
+helicobacters are associated with low？level inflammation and occasionally with disease. In immunocompromised hosts, several nongastric (intestinal) 
+Helicobacter species can cause disease with clinical features resembling those of Campylobacter infections; these species are covered in Chap. 167.
+
+EPIDEMIOLOGY
+Prevalence and Risk Factors
+The prevalence of H. pylori among adults is <30% in most parts of the United States, Europe, and Oceania as opposed to >60% in many parts of Africa, South 
+America, and West Asia. In the United States, prevalence varies with age: up to 50% of 60？year？old persons, ~20% of 30？year？old persons, and
+<10% of children are colonized. H. pylori is usually acquired in childhood. The age association is due mostly to a birth？cohort effect whereby current 
+60？year？olds were more commonly colonized as children than are current children. Spontaneous acquisition or loss of H. pylori in adulthood is uncommon. 
+Childhood acquisition explains why the main risk factors for infection are markers of crowding and social deprivation in childhood.
+Longitudinal studies have shown declining prevalences over the past half？century, concomitant with socioeconomic development and widespread 
+antibacterial treatments.
+
+Transmission
+
+
+
+ 
+Humans are the only important reservoir of H. pylori. Children may acquire the organism from their parents (most often the primary caregiver) or from 
+other children. The former is more common in developed countries and the latter in less developed countries. Whether transmission takes place more 
+often by the fecal?oral or the oral?oral route is unknown, but H. pylori is easily cultured from vomitus and gastroesophageal refluxate and is much less 
+easily cultured from stool. Most acquisition of H. pylori is during the early years of childhood.
+
+PATHOLOGY AND PATHOGENESIS
+Long？term H. pylori colonization induces chronic superficial gastritis, a tissue response in the stomach that includes infiltration of the mucosa by both 
+mononuclear and polymorphonuclear cells. (The term gastritis should be used specifically to describe histologic features; it has also been used to 
+describe endoscopic appearances and even symptoms, but only magnification endoscopy correlates with microscopic findings or even with the presence 
+of H. pylori, and even this is insufficient for diagnosis.) Although H. pylori is capable of numerous adaptations that prevent excessive stimulation of the 
+immune system, colonization is accompanied by a considerable persistent local and systemic immune response, including the production of antibodies 
+and cell？mediated responses. However, these responses are ineffective in clearing the bacterium. This inefficient clearing appears to be due in part to H. 
+pylori¨s downregulation of the immune system, which fosters its own persistence.
+Most H. pylori?colonized persons do not develop clinical sequelae. That some persons develop overt disease whereas others do not is related to a 
+combination of factors: bacterial strain differences, host susceptibility to disease, and environmental factors.
+
+Bacterial Virulence Factors
+  Several H. pylori virulence factors are more common among strains that are associated with disease than among those that are not. The cag island is 
+a group of genes that encodes a bacterial type IV secretion system. Through this system, an effector protein, CagA, is translocated into epithelial cells, 
+where it may be activated by phosphorylation and induces host cell signal transduction; proliferative, cytoskeletal, and inflammatory changes in the cell 
+result. The protein at the tip of the secretory apparatus, CagL, binds to integrins on the cell surface, transducing further signaling. Finally, soluble 
+components of the peptidoglycan cell wall enter the cell, mediated by the same secretory system. These components are recognized by the intracellular 
+bacterial receptor Nod1, which stimulates a proinflammatory cytokine response resulting in an enhanced tissue response. Carriage of cag？positive strains 
+increases the risk of both peptic ulcer and gastric adenocarcinoma. A second major host？interaction factor is the vacuolating cytotoxin VacA, which forms 
+pores in cell membranes. VacA is polymorphic, and carriage of more active forms also increases the risk of ulcer disease and gastric cancer. Other 
+bacterial factors that are associated with increased disease risk include adhesins, such as BabA (which binds to blood group antigens on epithelial cells).
+
+Host Genetic and Environmental Factors
+The best？characterized host determinants of disease are genetic polymorphisms leading to enhanced activation of the innate immune response, 
+including polymorphisms in cytokine genes and in genes encoding bacterial recognition proteins such as Toll？like receptors. For example, colonized 
+people with polymorphisms in the interleukin 1 gene that increase the production of this cytokine in response to H. pylori infection are at increased risk 
+of gastric adenocarcinoma. In addition, environmental cofactors are important in pathogenesis. Smoking increases the risks of duodenal ulcers and 
+gastric cancer in H. pylori?positive individuals. Diets high in salt and preserved foods increase cancer risk, whereas diets high in antioxidants and vitamin C 
+are modestly protective.
+
+Distribution of Gastritis and Differential Disease Risk
+The pattern of gastric tissue response is associated with disease risk: antral？predominant gastritis is most closely linked with duodenal ulceration, whereas 
+pan？gastritis and corpus？predominant gastritis are linked with gastric ulceration and adenocarcinoma. This difference probably explains why patients with 
+duodenal ulceration are not at high risk of developing gastric adenocarcinoma later in life, despite being colonized by H. pylori.
+
+PATHOGENESIS OF DUODENAL ULCERATION
+
+How gastric colonization causes duodenal ulceration is now becoming clearer. H. pylori?induced tissue responses in the gastric antrum diminish the number 
+of somatostatin？producing D cells. Because somatostatin inhibits gastrin release, gastrin levels are higher than in H. pylori?negative persons,
+
+
+
+ 
+and these higher levels lead to increased meal？stimulated acid secretion from the relatively spared gastric corpus. How this situation increases duodenal 
+ulcer risk remains controversial, but the increased acid secretion may contribute to the formation of potentially acid？protective gastric metaplasia in the 
+duodenum. Gastric metaplasia in the duodenum may become colonized by H. pylori and subsequently inflamed and ulcerated.
+
+PATHOGENESIS OF GASTRIC ULCERATION AND GASTRIC ADENOCARCINOMA
+
+The pathogenesis of these conditions is less well understood, although both arise in association with pan？ or corpus？predominant gastritis. The hormonal 
+changes described above still occur, but the tissue responses in the gastric corpus mean that it produces less acid (hypochlorhydria) despite 
+hypergastrinemia. Gastric ulcers commonly occur at the junction of antral and corpus？type mucosa, an area that is often particularly inflamed. Gastric 
+cancer usually arises in stomachs with extensive atrophic gastritis and hypochlorhydria, and probably stems from progressive DNA damage and the 
+survival of abnormal epithelial cell clones. The DNA damage is thought to be due principally to reactive oxygen and nitrogen species arising from 
+inflammatory cells, perhaps in relation to other bacteria that survive in a hypochlorhydric stomach. Longitudinal analyses of gastric biopsy specimens 
+taken years apart from the same patient show that the common intestinal type of gastric adenocarcinoma follows stepwise changes from simple gastritis 
+to gastric atrophy, metaplasia, and dysplasia. A second, diffuse type of gastric adenocarcinoma found more commonly in younger adults may arise 
+directly from chronic gastritis without atrophic changes. In recent years, there has been a progressive rise in gastric cancers centered on the gastric 
+corpus and occurring in younger adults (<50 years old) and disproportionately in females; this appears to be in the absence of H. pylori.
+
+PATHOGENESIS OF GASTRIC MALT LYMPHOMA
+
+Low？grade B？cell MALT lymphomas are rare malignancies, reported at a rate of ~1 per million population per year prior to the discovery of H. pylori. Since 
+then, reported rates have increased substantially, possibly reflecting overdiagnosis. These tumors arise from the substrate of chronic stimulation of 
+lymphocyte populations by the persistent H. pylori colonization. Importantly, there have been numerous reports of these low？grade tumors responding 
+dramatically to H. pylori eradication therapies. However, the boundary between true malignancy and benign lymphoid hypertrophy is uncertain. Among 
+responders to H. pylori eradication, most do not have the characteristic t(11;18)(q21;q21) translocation of the malignancy and may not have true 
+malignancies but rather benign polyclonal lymphoid proliferation. CagA？positive H. pylori strains have been significantly associated with the 
+t(11;18)(q21;q21)?positive gastric MALT lymphoma compared with translocation？negative cases.
+
+CLINICAL MANIFESTATIONS
+Essentially all H. pylori?colonized persons have histologic gastritis, but only ~10?15% develop associated illnesses such as peptic ulceration, gastric 
+adenocarcinoma, or gastric lymphoma (Fig. 163？1). Despite similar rates of H. pylori colonization, rates of these diseases among women are less than 
+half of those among men.
+
+FIGURE  163？1
+
+
+Schematic of the relationships between colonization with Helicobacter pylori and diseases of the upper gastrointestinal tract. 
+Essentially all persons colonized with H. pylori develop a host response, which is generally termed chronic gastritis. The nature of the host¨s interaction 
+with the particular bacterial population determines the clinical outcome. H. pylori colonization increases the lifetime risk of peptic ulcer disease, 
+noncardia gastric cancer, and B？cell non？Hodgkin¨s gastric lymphoma (odds ratios [ORs] for all, >3). In contrast, a growing body of evidence indicates that 
+H. pylori colonization (especially with cagA+ strains) protects against adenocarcinoma of the esophagus (and the sometimes related gastric cardia) and 
+premalignant lesions such as Barrett¨s esophagus (ORs, <1). Although the incidences of peptic ulcer disease (cases not due to nonsteroidal anti？ 
+inflammatory drugs) and noncardia gastric cancer are declining in developed countries, the incidence of adenocarcinoma of the esophagus is increasing. 
+(Reproduced with permission from MJ Blaser: Hypothesis: The changing relationships of Helicobacter pylori and humans: Implications for health and 
+disease. J Inf Dis 179:1523, 1999.)
+
+
+
+ 
+
+PEPTIC ULCER DISEASE
+Worldwide, ~70% of duodenal ulcers and ~50% of gastric ulcers are related to H. pylori colonization (Chap. 324). However, in particular, the proportion 
+of gastric ulcers caused by aspirin and nonsteroidal anti？inflammatory drugs (NSAIDs) is increasing, and in many developed countries, these drugs have 
+overtaken H. pylori as a cause of gastric ulceration. The main lines of evidence supporting an ulcer？promoting role for H. pylori are that (1) the presence 
+of the organism is a risk factor for the development of ulcers, (2) non？NSAID？induced ulcers rarely develop in the absence of H. pylori, (3) eradication of H. 
+pylori virtually abolishes long？term ulcer relapse, and (4) experimental H. pylori infection of gerbils can cause gastric ulceration. Thus, H. pylori is neither 
+necessary nor sufficient for the development of peptic ulcer disease, but it is a very strong risk factor for its occurrence, and removal of H. pylori changes 
+the natural history of ulcer disease.
+
+Gastric Adenocarcinoma and Lymphoma
+Prospective nested case?control studies have shown that H. pylori colonization is a risk factor for adenocarcinomas of the distal (noncardia) stomach 
+(Chap. 80). Long？term experimental infection of gerbils also may result in gastric adenocarcinoma. Moreover, H. pylori may induce primary gastric 
+lymphoma, although this condition is much less common, and the approaches to histopathologic and cytogenetic evaluations are not standardized. 
+Many of the diagnosed low？grade gastric B？cell lymphomas are dependent on H. pylori for continuing growth and proliferation, and these tumors may 
+regress either fully or partially after H. pylori eradication. However, they require careful short？ and long？term monitoring; any that are not confined to 
+the superficial mucosa (and, indeed, some that are) require additional treatment with chemotherapeutic agents or radiotherapy.
+
+Functional Dyspepsia
+Many patients have upper gastrointestinal symptoms but have normal results on upper gastrointestinal endoscopy (so？called functional or nonulcer 
+dyspepsia; Chap. 324). Because H. pylori is common, some of these patients will be colonized with the organism. H. pylori eradication leads to symptom 
+resolution up to 15% more commonly than does placebo treatment. Whether such patients have peptic ulcers in remission at the time of endoscopy or 
+whether a small subgroup of patients with ＾true￣ functional dyspepsia respond to H. pylori treatment is unclear. Either way, because functional 
+dyspepsia is often persistent and difficult to treat, most consensus conference guidelines recommend H. pylori eradication in these patients. If this 
+advice is followed, it is important to realize that only a small subgroup of patients who are treated will benefit.
+
+Protection Against Peptic Esophageal Disease, Including Esophageal Adenocarcinoma
+Much interest has focused on a protective role for H. pylori against GERD (Chap. 323), Barrett¨s esophagus (Chap. 323), and adenocarcinoma of the 
+esophagus and gastric cardia (Chap. 80). The main lines of evidence for this role are (1) that there is a temporal relationship between a falling 
+prevalence of gastric H. pylori colonization and a rising incidence of these conditions; (2) that, in most studies, the prevalence of H. pylori colonization 
+(especially with proinflammatory cagA+ strains) is significantly lower among patients with these esophageal diseases than among control participants; and 
+(3) that, in prospective nested studies (see above), the presence of H. pylori is inversely related to these cancers. The mechanism underlying this 
+protective effect is likely H. pylori?induced hypochlorhydria. Because, at the individual level, GERD severity may decrease, worsen, or remain unchanged 
+after H. pylori treatment, concerns about GERD should not affect decisions about whether to treat H. pylori in an individual patient if a
+
+
+
+ 
+clear？cut indication exists; if there is no clear indication, clinicians should carefully balance considerations of benefit and harm.
+Other Pathologies
+H. pylori has an increasingly recognized role in other gastric pathologies. It may predispose some patients to iron deficiency through occult blood loss 
+and/or hypochlorhydria and reduced iron absorption. In addition, several extragastrointestinal pathologies have been linked with H. pylori colonization, 
+although evidence of causality is less strong. Studies of H. pylori treatment in idiopathic thrombocytopenic purpura have consistently described 
+improvement in or even normalization of platelet counts. Potentially important but even more controversial (protective) associations are with ischemic 
+heart disease and cerebrovascular disease. However, the strength of the latter associations is reduced if confounding factors are taken into account, and 
+our present knowledge is incomplete. Most authorities consider the associations to be noncausal. An increasing number of studies have shown an 
+inverse association of cagA+ H. pylori with childhood？onset asthma, hay fever, and atopic disorders. These associations have been shown to be causal in 
+animal models, but the effect size in humans has not been established.
+
+DIAGNOSIS
+Tests for H. pylori fall into two groups: tests that require upper gastrointestinal endoscopy and simpler tests that can be performed in the clinic (Table 
+163？1).
+TABLE 163？1
+Tests Commonly Used to Detect Helicobacter pylori
+
+TEST 
+ADVANTAGES 
+DISADVANTAGES 
+Tests Based on Endoscopic Biopsy
+Biopsy 
+urease 
+test
+Quick, simple
+Some commercial tests not fully sensitive before 24 h
+Histology
+May give additional histologic information
+Sensitivity dependent on experience and use of special stains
+Culture
+Permits determination of antibiotic susceptibility
+Sensitivity dependent on experience
+Noninvasive Tests 
+Serology
+Inexpensive and convenient; not affected by recent antibiotics or proton 
+pump inhibitors to the same extent as breath and stool tests
+Cannot be used to monitor treatment success; some commercial kits 
+inaccurate, and most less accurate than urea breath test
+13C urea
+breath 
+test
+Inexpensive and simpler than endoscopy; useful for follow？up after 
+treatment
+Requires fasting; not as convenient as blood or stool tests
+Stool 
+antigen 
+test
+Inexpensive and convenient; useful for follow？up after treatment; may 
+be particularly useful in children
+Stool？based tests disliked by people from some cultures
+
+
+Endoscopy？Based Tests
+ Endoscopy is usually unnecessary in the initial management of young patients with simple dyspepsia but is commonly used to exclude malignancy and 
+
+
+
+ 
+make a positive diagnosis in older patients or those with ＾alarm￣ symptoms. If endoscopy is performed, the most convenient biopsy？based test is the 
+biopsy urease test, in which one large or two small gastric biopsy specimens are placed into a gel containing urea and an indicator. The presence of H. 
+pylori urease leads to a rise in pH and therefore to a color change, which often occurs within minutes but can require up to 24 h. Histologic examination of 
+biopsy specimens for H. pylori also is accurate, provided that a special stain (e.g., a modified Giemsa, silver, or immuno？stain) permitting optimal 
+visualization of the organism is used. If biopsy specimens are obtained from both antrum and corpus, histologic study yields additional information, 
+including the degree and pattern of inflammation and the presence of any atrophy, metaplasia, or dysplasia. Microbiologic culture is most specific but 
+may be insensitive because of difficulty with H. pylori isolation. Once the organism is cultured, its identity as H. pylori can be confirmed by its typical 
+appearance on Gram¨s stain and its positive reactions in oxidase, catalase, and urease tests. Moreover, the organism¨s susceptibility to antibiotics can be 
+determined, and this information can be clinically useful in difficult cases. The occasional biopsy specimens containing the less common non？pylori gastric 
+helicobacters give weakly positive results in the biopsy urease test. Positive identification of these bacteria requires visualization of the characteristic 
+long, tight spirals in histologic sections; they cannot easily be cultured.
+Noninvasive Tests
+Noninvasive H. pylori testing is the norm if gastric cancer does not need to be excluded by endoscopy. The longest？established test (and a very accurate 
+one) is the urea breath test. In this simple test, the patient drinks a solution of urea labeled with the nonradioactive isotope 13C and then blows into a 
+tube. If H. pylori urease is present, the urea is hydrolyzed, and labeled carbon dioxide is detected in breath samples. The stool antigen test, a simple and 
+accurate test using monoclonal antibodies specific for H. pylori antigens, is more convenient and less expensive than the urea breath test, but some 
+patients dislike sampling stool. The simplest tests for ascertaining H. pylori status are serologic assays measuring specific IgG levels in serum by 
+enzyme？linked immunosorbent assay or immunoblot. The best of these tests are nearly as accurate as other diagnostic methods, but many commercial 
+tests?especially rapid office tests?do not perform well.
+
+Use of Tests to Assess Treatment Success
+The urea breath test, the stool antigen test, and biopsy？based tests can all be used to assess the success of treatment (Fig. 163？2). However, because 
+these tests are dependent on H. pylori load, their use <4 weeks after treatment may yield false？negative results. Early suppression of bacterial numbers 
+may lead to false？negative results since regrowth of the organism can result in its detection weeks later. For the same reason, these tests are unreliable if 
+performed within 4 weeks of intercurrent treatment with antibiotics or bismuth compounds or within 2 weeks of the discontinuation of proton pump 
+inhibitor (PPI) treatment. In the assessment of treatment success, noninvasive tests are normally preferred. However, after gastric ulceration, endoscopy 
+should be repeated to ensure healing and exclude gastric carcinoma by further histologic sampling; if PPIs have been stopped for at least 2 weeks and no 
+antibiotics or bismuth compounds have been given for at least 6 weeks, there is an opportunity to assess treatment success with biopsy？ based tests. 
+Serologic tests are not used to monitor treatment success, as the gradual drop in titer of H. pylori?specific antibodies is too slow (requiring >14 weeks) to 
+be of practical use.
+
+FIGURE  163？2
+
+
+Algorithm for the management of Helicobacter pylori infection. *Note that either the urea breath test or the stool antigen test can be used in 
+this algorithm. Occasionally, endoscopy and a biopsy？based test are used instead of either of these tests in follow？up after treatment. The main 
+indication for these invasive tests is in follow？up after gastric ulceration; in this condition, as opposed to duodenal ulceration, it is important to check 
+healing and exclude underlying gastric adenocarcinoma. However, even in this situation, patients undergoing endoscopy may still be receiving proton 
+pump inhibitor therapy, which precludes H. pylori testing. Thus, a urea breath test or a stool antigen test is still required at a suitable interval after the 
+end of therapy to determine whether treatment has been successful (see text). Some authorities use empirical third？line regimens, of which several have 
+been described.
+
+
+
+ 
+
+Treatment of Helicobacter Pylori Infection
+
+Indications
+
+The most clear？cut indications for treatment are H. pylori?related duodenal or gastric ulceration or low？grade gastric B？cell MALT lymphoma. Whether or 
+not the ulcers are currently active, H. pylori should be eradicated in patients with documented ulcer disease to prevent relapse (Fig. 163？2).
+Guidelines have recommended H. pylori treatment for colonized patients with functional dyspepsia in case they are among the small percentage who 
+will benefit from such therapy (beyond placebo effects). H. pylori eradication in the treatment of conditions not definitively known to respond has also 
+been recommended but is not universally supported; such conditions include idiopathic thrombocytopenic purpura, vitamin B12 deficiency, and iron？
+deficiency anemia where other causes have been carefully excluded. For individuals with a strong family history of gastric cancer, treatment to eradicate 
+H. pylori in the hope of reducing cancer risk is reasonable but of unproven value: it slightly reduces future cancer incidence, but there is no evidence it 
+reduces all？cause mortality. For older dyspeptic patients in the community or those who have ＾alarm￣ symptoms (e.g., weight loss) associated with their 
+dyspepsia, upper gastrointestinal endoscopy is indicated to seek a diagnosis and test for H. pylori; the decision regarding whether to eradicate the 
+organism can then be based on indication. Endoscopy is usually considered unnecessary for young dyspeptic patients in the community who have no 
+alarm symptoms (with the precise age cutoff dependent on local guidelines). If the community prevalence of H. pylori is below
+~20%, such patients are treated with a short course of acid suppression using a PPI. If these patients do not respond or relapse when treatment is 
+stopped, or if the H. pylori community prevalence is >20%, many national guidelines recommend a strategy of testing for H. pylori noninvasively and 
+eradicating it if it is found. This strategy will benefit patients who have peptic ulcers and the ~5?10% of patients who have functional dyspepsia 
+responsive to H. pylori eradication, but most patients will be treated unnecessarily. Currently, widespread community screening for and treatment of
+H. pylori as primary prophylaxis for gastric cancer and peptic ulcers are not recommended in most countries, mainly because the extent of the 
+consequent reduction in cancer risk is not known. Several studies have found a modestly reduced cancer risk after treatment, but the period of follow？ up 
+is still fairly short, and the magnitude of the effect in different populations remains unclear. Other reasons not to treat H. pylori in asymptomatic 
+populations at present include (1) the adverse side effects (which are common and can be severe in rare cases) of the multiple？antibiotic regimens used; 
+(2) antibiotic resistance, which may emerge in H. pylori or other incidentally carried bacteria; (3) the anxiety that may arise in otherwise healthy people, 
+especially if treatment is unsuccessful; and (4) the existence of a subset of people who will develop GERD symptoms after treatment. Despite the absence 
+of screening strategies, many doctors treat H. pylori if it is known to be present (particularly in children and younger adults), even when the patient is 
+asymptomatic. The rationale is that it reduces patient concern and may reduce future gastric cancer risk and that any reduction in risk is likely to be 
+greater in younger patients. However, such practices do not factor in any potential benefits of H. pylori colonization. Overall, despite widespread clinical 
+activity in this area, most treatment of persons with asymptomatic H. pylori carriage is given with no firm evidence base. Because a proportion of patients 
+(up to 70%) of those diagnosed with gastric low？grade B？cell MALT lymphomas respond to H. pylori eradication, it should be used in all cases, regardless 
+of whether H. pylori can be detected by the diagnostic modalities used since there may be falsely negative results. However, not all of these cases 
+represent true malignancies, so the reported success rate may reflect the eradication of benign processes. Examination of tissues for the characteristic 
+chromosomal translocations should be done to help distinguish benign and malignant processes and to guide further
+
+
+
+ 
+therapeutic approaches. These generally are slowly progressive tumors, so the time needed for H. pylori eradication and subsequent evaluation will not 
+interfere with the use of subsequent chemotherapy and/or radiotherapy, if needed.
+Regimens
+
+Although H. pylori is susceptible to a wide range of antibiotics in vitro, monotherapy is not usually successful, probably because of inadequate active 
+antibiotic delivery to the colonization niche. Clinical failure of monotherapy prompted the development of multidrug regimens. Current regimens consist 
+of a PPI and two or three antimicrobial agents given for 10?14 days (Table 163？2). The optimal regimens vary in different parts of the world, depending 
+on the known rates of primary antibiotic resistance in most H. pylori strains in a particular locale. For this reason, guidelines on optimal regimens for H. 
+pylori eradication in individual countries are evolving, and physicians should refer to the most up？to？date local guideline.
+TABLE 163？2
+Commonly Recommended Treatment Regimens for Helicobacter pylori
+
+REGIMENa  (DURATION) 
+DRUG 1
+DRUG 2
+DRUG 3
+DRUG 4
+Regimen 1: OCM (14 days)b
+Omeprazole (20 mg 
+bidc)
+Clarithromycin (500 mg bid)
+Metronidazole (500 mg 
+bid)
+?
+Regimen 2: OCA (14 days)b
+Omeprazole (20 mg 
+bidc)
+Clarithromycin (500 mg bid)
+Amoxicillin (1 g bid)
+?
+Regimen 3: OBTM (14 days)d
+Omeprazole (20 mg 
+bidc)
+Bismuth subsalicylate (2 tabs 
+qid)
+Tetracycline HCl (500 mg 
+qid)
+Metronidazole (500 mg 
+tid)
+Regimen 4: concomitant (14 
+days)e
+Omeprazole (20 mg 
+bidc)
+Amoxicillin (1 g bid)
+Clarithromycin (500 mg 
+bid)
+Tinidazole (500 mg bidf)
+Regimen 5: OAL (10 days)g
+Omeprazole (20 mg 
+bidc)
+Amoxicillin (1 g bid)
+Levofloxacin (500 mg bid)
+?
+
+aThe recommended first？line regimens for most of the world are shown in bold type. bThis regimen should be used only for populations in which the prevalence of 
+clarithromycin？resistant strains is known to be <20%. In practice, this restriction limits the regimens¨ appropriate range mainly to northern Europe. cMany authorities 
+and some guidelines recommend doubling this dose of omeprazole as trials show resultant increased efficacy with some antibiotic combinations.
+Omeprazole may be replaced with any proton pump inhibitor (PPI) at an equivalent dosage. Because extensive metabolizers of PPIs are prevalent among Caucasian 
+populations, many authorities recommend esomeprazole (40 mg bid) or rabeprazole (20 mg bid), particularly for regimens 4 and 5. dData supporting this regimen come 
+mainly from Europe and are based on the use of bismuth subcitrate (1 tablet qid) and metronidazole (400 mg tid). This is a recommended first？line regimen in most 
+countries and is the recommended second？line regimen in northern Europe. eThis regimen may be used as an alternative to regimen 3. fMetronidazole (500 mg bid) 
+may be used as an alternative. gThis regimen is used as second？line treatment in many countries (particularly where quadruple or concomitant therapy is used as the 
+first？line regimen) and as third？line treatment in others. It may be less effective where rates of fluoroquinolone use are high and is more likely to be ineffective if there is 
+a personal history of fluoroquinolone use for previous treatment of other infections.
+The two most important factors in successful H. pylori treatment are the patient¨s close compliance with the regimen and the use of drugs to which the 
+patient¨s strain of H. pylori has not acquired resistance. Treatment failure following minor lapses in compliance is common and often leads to acquired 
+resistance. To stress the importance of compliance, written instructions should be given to the patient, and minor side effects of the regimen should be 
+explained. Increasing levels of primary H. pylori resistance to clarithromycin, levofloxacin, and?to a lesser extent?metronidazole are of growing 
+concern. In most parts of the world (the main exception being northwestern Europe), the rate of primary clarithromycin resistance is sufficiently high
+ that regimens containing clarithromycin plus one other antibiotic often fail; regimens with clarithromycin and two other antibiotics remain an option	
+
+
+
+ 
+as the other two antibiotics are likely to eradicate H. pylori even if the strain is clarithromycin？resistant. When a patient is known to have been exposed
+?even remotely in time?to clarithromycin or a fluoroquinolone, these antibiotics usually should be avoided. Resistance to amoxicillin or tetracycline is 
+unusual, even if these antibiotics have been given previously, and resistance to metronidazole is only partial; thus, there is no need to avoid using these 
+antibiotics whether or not they have been previously prescribed. Whichever antibiotic regimen is used, meta？analyses show that using high rather than 
+moderate doses of acid？suppressive PPIs with the antibiotics increases the effectiveness of the regimen. Similarly, use of vonoprazan, a highly effective 
+potassium？competitive acid blocker, currently licensed in Japan, was associated with higher eradication rates in conjunction with amoxicillin and 
+clarithromycin, than when a PPI was used for acid suppression.
+Assessment of antibiotic susceptibilities before treatment would be optimal but is not usually undertaken because endoscopy and mucosal biopsy are 
+necessary to obtain H. pylori for culture and because most microbiology laboratories are inexperienced in H. pylori culture. If initial H. pylori treatment 
+fails, the usual approach is empirical re？treatment with another drug regimen (Table 163？2). The third？line approach ideally should be endoscopy, biopsy, 
+and culture plus treatment based on documented antibiotic sensitivities. However, empirical third？line therapies are often used.
+Non？pylori gastric helicobacters are treated in the same way as H. pylori. However, in the absence of trials, it is unclear whether a positive outcome always 
+represents successful treatment or whether it is sometimes due to natural clearance of the bacteria.
+
+PREVENTION
+Carriage of H. pylori has considerable public health significance in economically richer countries, where it is associated with peptic ulcer disease and 
+gastric adenocarcinoma, and in some, but not all, economically poorer countries, where gastric adenocarcinoma may be an even more common cause of 
+cancer death late in life. If mass prevention were contemplated, vaccination would be the most obvious method: experimental immunization of animals 
+has given promising results, and the first reported trial in humans has shown some efficacy. Further trials are ongoing. However, given that H. pylori has 
+co？evolved with its human host over millennia, preventing colonization on a population basis may have biological and clinical costs. For example, lifelong 
+absence of H. pylori is a risk factor for GERD complications, including esophageal adenocarcinoma. We have speculated that the disappearance of H. 
+pylori may also be associated with an increased risk of other emergent diseases reflecting aspects of the current Western lifestyle, such as 
+childhood？onset asthma and allergy, as supported by both epidemiologic and animal model studies.
+
+FURTHER READING
+
+Amieva M, Peek RM: Pathobiology of Helicobacter pylori ?induced gastric cancer. Gastroenterology 150:64, 2016. [PubMed: 26385073]
+
+Anderson WF et al: The changing face of noncardia gastric cancer incidence among US non？Hispanic whites. J Natl Cancer Inst 110:608, 2018. [PubMed: 
+29361173]
+
+Arnold IC et al: Helicobacter pylori infection prevents allergic asthma in mouse models through the induction of regulatory T cells. J Clin Invest 121:3088, 
+2011. [PubMed: 21737881]
+
+Atherton JC, Blaser MJ: Co？adaptation of Helicobacter pylori and humans: Ancient history and modern implications. J Clin Invest 119:2475, 2009. [PubMed: 
+19729845]
+
+Chen Y, Blaser MJ: Inverse associations of Helicobacter pylori with asthma and allergies. Arch Intern Med 167:821, 2007. [PubMed: 17452546] 
+Chen Y et al: Association between Helicobacter pylori and mortality in the NHANES II study. Gut 62:1262, 2013. [PubMed: 23303440]
+Chow WH et al: An inverse relation between cagA + strains of Helicobacter pylori infection and risk of esophageal and gastric cardia adenocarcinoma. 
+Cancer Res 58:588, 1998. [PubMed: 9485003]
+
+Deguchi H et al: Current status of Helicobacter pylori diagnosis and eradication therapy in Japan using a nationwide database. Digestion 101:441, 2020. 
+[PubMed: 31216549]
+
+
+
+
+ 
+Ford AC et al: Helicobacter pylori eradication therapy to prevent gastric cancer in healthy asymptomatic infected individuals: Systematic review and 
+meta？analysis of randomized controlled trials. BMJ 348:g3174, 2014. [PubMed: 24846275]
+
+Graham DY et al: Rifabutin？based triple therapy (RHB？105) for Helicobacter pylori eradication: A double？blind, randomized, controlled trial. Ann 
+Intern Med 172:795, 2020. [PubMed: 32365359]
+
+Hooi JKY et al: Global prevalence of Helicobacter pylori infection: Systematic review and meta？analysis. Gastroenterology 153:420, 2017. [PubMed: 
+28456631]
+
+Kuo S？H et al: First？line antibiotic therapy in Helicobacter pylori ？negative low？grade gastric mucosa？associated lymphoid tissue lymphoma. Scientific Rep 
+7:14333, 2017.
+
+Linz B et al: An African origin for the intimate association between humans and Helicobacter pylori . Nature 445:915, 2007. [PubMed: 17287725] 
+Maixner F et al: The 5300？year？old Helicobacter pylori genome of the Iceman. Science 351:162, 2016. [PubMed: 26744403]
+Marshall BJ, Warren JR: Unidentified curved bacilli in the stomach of patients with gastritis and peptic ulceration. Lancet 1:1311, 1984. [PubMed: 
+6145023]
+
+Plummer M et al: Global burden of gastric cancer attributable to Helicobacter pylori . Int J Cancer 136:487, 2015. [PubMed: 24889903]
+
+
+
+
+
+
+
+
+
+
+
